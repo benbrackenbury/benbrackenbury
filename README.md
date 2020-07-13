@@ -1,4 +1,5 @@
 ## Ben Brackenbury
+### Computer Science student at Aberystwyth University
 
 [benbrackenbury.github.io](https://benbrackenbury.github.io)
 
