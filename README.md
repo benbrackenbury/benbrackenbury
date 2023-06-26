@@ -1,5 +1,4 @@
 ## Ben Brackenbury
-### Computer Science student at Aberystwyth University
 
 iOS and web development
 
